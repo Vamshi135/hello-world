@@ -4,4 +4,5 @@ Push
 pull
 commit
 clone
+git
 
